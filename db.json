@@ -29,14 +29,19 @@
       "id": 1
     },
     {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
       "firstName": "Rose",
       "lastName": "Windsong",
       "id": 4
+    },
+    {
+      "firstName": "Grabpot ",
+      "lastName": "Thundergust",
+      "id": 5
+    },
+    {
+      "firstName": "Beatrice",
+      "lastName": "Nox",
+      "id": 6
     }
   ]
 }
