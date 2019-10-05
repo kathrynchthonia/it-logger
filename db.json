@@ -8,18 +8,18 @@
       "id": 1
     },
     {
-      "message": "Fine tuning hyper-parameters",
-      "attention": true,
+      "id": 2,
+      "message": "Fine tuned hyper-parameters",
+      "attention": false,
       "tech": "Alfred Nox",
-      "date": "2019-10-04T11:40:17.790Z",
-      "id": 2
+      "date": "2019-10-04T23:44:54.667Z"
     },
     {
-      "message": "Shifted Eigen-values",
-      "attention": false,
+      "id": 3,
+      "message": "Shifting Eigen-values",
+      "attention": true,
       "tech": "Rose Windsong",
-      "date": "2019-10-04T11:40:51.286Z",
-      "id": 3
+      "date": "2019-10-04T23:45:07.615Z"
     }
   ],
   "techs": [
